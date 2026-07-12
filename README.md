@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Shaan
 
-<!--
-**shaansakraney/shaansakraney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ECE undergrad at Duke ('27), focused on **array signal processing** — 
+taking many sensors and turning them into one good answer about where 
+something is and what it's saying.
 
-Here are some ideas to get you started:
+**Currently:** DSP intern at QSC, working on microphone-array 
+direction-of-arrival estimation (SRP-PHAT, GCC-PHAT).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Interested in:** audio DSP, radar, and wireless comms — the math 
+underneath them is mostly the same, which is the fun part.
+
+**Tools:** MATLAB/Simulink · Python (NumPy/SciPy) · C++ · a lot of plotting
+
+📫 [LinkedIn](https://www.linkedin.com/in/shaan-sakraney/) · shaan.sakraney@gmail.com
+
