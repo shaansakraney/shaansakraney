@@ -7,7 +7,7 @@ something is and what it's saying.
 **Currently:** DSP intern at QSC, working on microphone-array 
 direction-of-arrival estimation (SRP-PHAT, GCC-PHAT).
 
-**Interested in:** audio DSP, radar, and wireless comms: the math 
+**Interested in:** audio DSP, sensing, radar, and wireless comms: the math 
 underneath them is mostly the same, which is the fun part.
 
 **Tools:** MATLAB/Simulink · Python (NumPy/SciPy) · C++ · a lot of plotting
