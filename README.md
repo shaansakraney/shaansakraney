@@ -4,6 +4,8 @@ ECE undergrad at Duke ('27), focused on **array signal processing**,
 taking many sensors and turning them into one good answer about where 
 something is and what it's saying.
 
+**Currently:** Building and learning in the Audio, Sensing, and Radar spaces. 
+
 **Last Summer:** DSP intern at QSC, working with the Audio AI Processing team 
 on microphone-array direction-of-arrival estimation (SRP-PHAT, GCC-PHAT).
 
